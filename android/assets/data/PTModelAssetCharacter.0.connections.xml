@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>180</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>186</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>645</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>183</string>
+                    <string>248</string>
+                    <string>250</string>
+                    <string>27849</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27309</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27311</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27469</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27315</string>
+                    <string>27455</string>
+                    <string>27457</string>
+                    <string>27858</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27324</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27326</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27536</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27330</string>
+                    <string>27532</string>
+                    <string>27534</string>
+                    <string>27867</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27655</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27657</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27667</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27661</string>
+                    <string>27663</string>
+                    <string>27665</string>
+                    <string>27876</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27797</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27799</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28891</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27803</string>
+                    <string>27885</string>
+                    <string>28724</string>
+                    <string>28726</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27806</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27808</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28978</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27812</string>
+                    <string>27886</string>
+                    <string>28703</string>
+                    <string>28705</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27815</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27817</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29066</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27821</string>
+                    <string>27887</string>
+                    <string>28682</string>
+                    <string>28684</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27824</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27826</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29159</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27830</string>
+                    <string>27888</string>
+                    <string>28652</string>
+                    <string>28654</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27833</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27835</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29274</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27839</string>
+                    <string>27889</string>
+                    <string>28631</string>
+                    <string>28633</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27842</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27844</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29361</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>27848</string>
+                    <string>27890</string>
+                    <string>28601</string>
+                    <string>28603</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28229</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28231</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29456</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28235</string>
+                    <string>28563</string>
+                    <string>28565</string>
+                    <string>28567</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28238</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28240</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29549</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28244</string>
+                    <string>28542</string>
+                    <string>28544</string>
+                    <string>28546</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28247</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28249</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29680</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28253</string>
+                    <string>28521</string>
+                    <string>28523</string>
+                    <string>28525</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28256</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28258</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29779</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28262</string>
+                    <string>28500</string>
+                    <string>28502</string>
+                    <string>28504</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28265</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28267</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29866</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28271</string>
+                    <string>28470</string>
+                    <string>28472</string>
+                    <string>28474</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28274</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28276</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29997</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28280</string>
+                    <string>28440</string>
+                    <string>28442</string>
+                    <string>28444</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28283</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28285</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>30096</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28289</string>
+                    <string>28419</string>
+                    <string>28421</string>
+                    <string>28423</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28292</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28294</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>30195</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28298</string>
+                    <string>28380</string>
+                    <string>28382</string>
+                    <string>28384</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28301</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28303</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>30326</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28307</string>
+                    <string>28350</string>
+                    <string>28352</string>
+                    <string>28354</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28310</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>28312</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>30433</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>28316</string>
+                    <string>28317</string>
+                    <string>28319</string>
+                    <string>28321</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46579</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46581</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46678</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46585</string>
+                    <string>47994</string>
+                    <string>47996</string>
+                    <string>48323</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46606</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46608</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46894</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46612</string>
+                    <string>48010</string>
+                    <string>48012</string>
+                    <string>48316</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46588</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46590</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46794</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46594</string>
+                    <string>48000</string>
+                    <string>48002</string>
+                    <string>48320</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46615</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46617</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46994</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46621</string>
+                    <string>48016</string>
+                    <string>48018</string>
+                    <string>48313</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46624</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46626</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47094</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46630</string>
+                    <string>48022</string>
+                    <string>48024</string>
+                    <string>48310</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46633</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46635</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47194</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46639</string>
+                    <string>48028</string>
+                    <string>48030</string>
+                    <string>48307</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46651</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46653</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47400</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46657</string>
+                    <string>48040</string>
+                    <string>48042</string>
+                    <string>48301</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46597</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46599</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48526</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46603</string>
+                    <string>48004</string>
+                    <string>48006</string>
+                    <string>48317</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46642</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46644</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47300</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46648</string>
+                    <string>48034</string>
+                    <string>48036</string>
+                    <string>48304</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46660</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46662</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47500</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>43312</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>46666</string>
+                    <string>47678</string>
+                    <string>48046</string>
+                    <string>48298</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>

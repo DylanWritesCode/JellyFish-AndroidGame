@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>183</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Forced Movement</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27315</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27330</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27661</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27803</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27812</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27821</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27830</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27839</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27848</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28235</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28244</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28253</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28262</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28271</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28280</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28289</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28298</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28307</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28316</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46585</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46594</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46603</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46612</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46621</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46630</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46639</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46648</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46657</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46666</string>
+                <key>className</key>
+                <string>PTModelComponentCharacterGameplaySettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Character Gameplay Settings</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{27.000,0.000}</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Jump Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

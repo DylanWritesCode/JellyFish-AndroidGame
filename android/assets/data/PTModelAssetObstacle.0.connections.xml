@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>270</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>272</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>501</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>503</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>512</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>514</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>523</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>525</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>534</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>536</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>603</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>605</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1334</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1336</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2125</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2127</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2138</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2140</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2313</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2315</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3021</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3023</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3175</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3177</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>40896</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4859</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4861</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>45110</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5000</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>5002</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5081</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>5083</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5097</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>5099</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6380</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6382</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7071</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7073</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7085</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7087</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7151</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7153</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7720</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7722</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11268</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>11270</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11281</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>11283</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>33128</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>14731</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>14733</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15028</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15030</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15057</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15059</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15180</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15182</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16835</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16837</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17921</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>17923</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18123</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18125</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18134</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18136</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18175</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18177</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>18189</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>33149</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20246</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>20248</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>34664</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20599</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>20601</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21827</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21829</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21840</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21842</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>37353</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21851</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21853</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>37416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24420</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>24422</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>42754</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24435</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>24437</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24501</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>24503</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>39431</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>26600</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>26602</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>32010</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>32012</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>32255</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>32257</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33086</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>33088</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33173</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>33175</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>33405</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>33407</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>35467</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>36444</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>36446</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>42762</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>37831</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>37833</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>37842</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>37844</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39298</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>39300</string>
+                </dict>
+                <key>WakeUp Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>42753</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>39409</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>39411</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>42543</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>42545</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>27849</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27854</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27858</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27863</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28775</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27867</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27872</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28749</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27876</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27881</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28741</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27885</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27935</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28711</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27886</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27927</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28690</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27887</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27919</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28678</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27888</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27911</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28639</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27889</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27903</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28618</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27890</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>27895</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28588</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28321</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28334</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28326</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28342</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28354</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28376</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28359</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28384</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28397</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28389</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28423</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28428</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28436</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28444</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28457</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28449</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28474</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28479</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28496</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28504</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28509</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28517</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28525</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28530</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28538</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28546</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28551</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28559</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>28567</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28580</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>28572</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48298</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48495</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48487</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48301</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48479</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48471</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48304</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48463</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48455</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48307</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48447</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48439</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48310</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48423</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48431</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48313</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48407</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48415</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48316</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48399</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48391</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48317</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48375</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48383</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48320</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48350</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48358</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48323</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48342</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>48334</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
